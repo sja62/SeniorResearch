@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in *config.txt0???
+do
+  echo "$i"
+  ./txt2pdb_np_HP_MZ.linux GAG.pdb  $i 32 $i.pdb
+done

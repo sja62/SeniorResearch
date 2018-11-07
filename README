@@ -1,0 +1,12 @@
+USAGE:
+
+txt2pdb_np_HP_MZ.linux AB01-40.pdb config.txt0000 32 config.txt0000,pdb
+
+_______________________________________________________________________
+
+Apr 05, 2012 Matjaz Zganec: Fixed PDBLib.h protein::protein error for long file names, changed function dtostr to compile without warnings, added a makefile
+
+Run "make" to compile. Run "make clean" to remove compiled files.
+
+Nov 07, 2013 Matjaz Zganec: Added the oxygen to the C group of the
+	last amino acid
