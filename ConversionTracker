@@ -1,6 +1,6 @@
-Directories in HP0.20: DONE
+Directories in HP0.20: DONE +s (start_config file)
 
-CH0.00_N0C0 : DONE - start_config.txt file not converted (true for all instances)
+CH0.00_N0C0 : DONE
 CH0.01_N+C- : DONE 
 CH0.01_N+C0 : DONE
 CH0.10_N+C- : DONE
@@ -20,18 +20,18 @@ CH0.70_N+C0 : DONE
 CH0.80_N+C- : DONE
 CH0.80_N+C0 : DONE
 
-Directories in HP-0.25 : DONE
-Directories in Hp-0.30 : DONE
-Directories in Hp-0.35 : DONE
-DIrectories in HP-0.40 : DONE
-DIrectories in HP-0.45 : DONE
-Directories in HP-0.50 : DONE
-DIrectories in HP-0.55 : DONE
-Directories in HP-0.60 : DONE
-Directories in HP-0.65 : DONE
-Directories in HP-0.70 : DONE
-Directories in HP-0.75 : DONE
-Directories in HP-0.80 : DONE
+Directories in HP-0.25 : DONE +s
+Directories in Hp-0.30 : DONE +s
+Directories in Hp-0.35 : DONE +s
+DIrectories in HP-0.40 : DONE +s
+DIrectories in HP-0.45 : DONE +s
+Directories in HP-0.50 : DONE +s
+DIrectories in HP-0.55 : DONE +s
+Directories in HP-0.60 : DONE +s
+Directories in HP-0.65 : DONE +s
+Directories in HP-0.70 : DONE +s
+Directories in HP-0.75 : DONE +s
+Directories in HP-0.80 : DONE +s
 
 Directories with Diff. Formatting: (Watch number of particles)
 
