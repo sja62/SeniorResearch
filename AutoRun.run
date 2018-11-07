@@ -1,0 +1,97 @@
+#!/bin/bash
+
+Script_Path18="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.00_N0C0/"
+cd $Script_Path18
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path19="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.01_N+C-/"
+cd $Script_Path19
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path1="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.01_N+C0/"
+cd $Script_Path1
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path2="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.10_N+C-/"
+cd $Script_Path2
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path3="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.10_N+C0/"
+cd $Script_Path3
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path4="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.20_N+C-/"
+cd $Script_Path4
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path5="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.20_N+C0/"
+cd $Script_Path5
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path6="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.30_N+C-/"
+cd $Script_Path6
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path7="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.30_N+C0/"
+cd $Script_Path7
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path8="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.40_N+C-/"
+cd $Script_Path8
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path9="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.40_N+C0/"
+cd $Script_Path9
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path10="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.50_N+C-/"
+cd $Script_Path10
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path11="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.50_N+C0/"
+cd $Script_Path11
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path12="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.60_N+C-/"
+cd $Script_Path12
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path13="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.60_N+C0/"
+cd $Script_Path13
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path14="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.70_N+C-/"
+cd $Script_Path14
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path15="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.70_N+C0/"
+cd $Script_Path15
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path16="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.80_N+C-/"
+cd $Script_Path16
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
+Script_Path17="/data/B/sadams/GAG_RUNS/HP-0.80/CH0.80_N+C0/"
+cd $Script_Path17
+bash ./C_Script01.run
+bash ./Deletetxt.run
+
