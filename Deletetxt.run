@@ -1,0 +1,7 @@
+#!/bin/bash
+for i in *config.txt0???
+do
+  echo "$i"
+  rm *.txt0 $i
+done
+
